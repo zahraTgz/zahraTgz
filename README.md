@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- 
 - 📫 How to reach me: 
     :heavy_check_mark: Email: zara.taghizadeh@gmail.com
-<!--     
+    
 <a href="https://github.com/zahraTgz">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=zahraTgz&show_icons=true&count_private=true&include_all_commits=true" /></a>
 
